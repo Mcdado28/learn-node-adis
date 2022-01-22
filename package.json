@@ -1,0 +1,28 @@
+{
+  "name": "learn-node-adis",
+  "version": "1.0.0",
+  "description": "Test node and heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcdado28/learn-node-adis.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Adis Murtic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mcdado28/learn-node-adis/issues"
+  },
+  "homepage": "https://github.com/Mcdado28/learn-node-adis#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
